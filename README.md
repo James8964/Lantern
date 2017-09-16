@@ -1,6 +1,6 @@
 
 # [蓝灯 Lantern 2.2.4](https://github.com/Penguin-G/lantern/releases/tag/v2.2.4)
-**This version is free!**
+**This version is free!**       
 If you're looking for Lantern installers, you can find all of them at the following links:
 
 * [Android](https://github.com/Penguin-G/lantern/releases/download/v2.2.4/Lantern-android-2.2.4.zip)
