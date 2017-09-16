@@ -1,3 +1,5 @@
+# Lantern
+科学上网工具，轻松就可以访问google、facebook等被墙的网站。
 
 # [蓝灯 Lantern 2.2.4](https://github.com/Penguin-G/lantern/releases/tag/v2.2.4)
 **This version is free!**       
